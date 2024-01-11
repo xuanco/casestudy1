@@ -94,7 +94,7 @@ ul {
     0 0 60px #ff0000,
     0 0 10px #ff8d00,
     0 0 98px #ff0000;
-    font-family: "sacramento"; cursive;
+    /* font-family: "sacramento"; cursive; */
     text-align: center;
     animation: blink 3s infinite;
 }
